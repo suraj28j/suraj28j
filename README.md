@@ -1,4 +1,3 @@
-![alt bannerImg]("https://images.app.goo.gl/8bb3fbFaGyH1gpVF7")
 <h1 align="center">Hi 👋, I'm Suraj Kumar</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
