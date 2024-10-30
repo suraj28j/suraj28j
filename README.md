@@ -1,4 +1,4 @@
-<img width="100%" height="210" alt="145186736-1d1a4508-60a3-4169-acb7-ede41a7c85d6" src="https://github.com/suraj28j/suraj28j/blob/main/banner.avif">
+<img width="100%" height="210" alt="145186736-1d1a4508-60a3-4169-acb7-ede41a7c85d6" src="https://github.com/suraj28j/suraj28j/blob/main/banner1.jpg">
 <h1 align="center">Hi 👋, I'm Suraj Kumar</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
