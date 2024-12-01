@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suraj28j" alt="suraj28j" /></a> </p>
 
-- 🔭 I’m currently working on **Tour Finder Client**
+- 🔭 I’m currently working on **Food Delivery App**
 
 - 🌱 I’m currently learning **TypeScript**
 
